@@ -1,1 +1,1 @@
-# app-favorites
+# App-favorites
